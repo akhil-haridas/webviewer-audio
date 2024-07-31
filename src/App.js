@@ -13,14 +13,12 @@ const App = () => {
           element={
             <div>
               <nav>
-                <ul>
-                  <li>
-                    <Link to="/audio">Audio</Link>
-                  </li>
-                  <li>
-                    <Link to="/video">Video</Link>
-                  </li>
-                </ul>
+                <button>
+                  <Link to="/audio">Webviewer - Audio</Link>
+                </button>
+                <button>
+                  <Link to="/video">Webviewer - Video</Link>
+                </button>
               </nav>
             </div>
           }
