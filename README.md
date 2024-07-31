@@ -15,8 +15,8 @@ Before you begin, make sure your development environment includes [Node.js and n
 ## Install
 
 ```
-git clone https://github.com/PDFTron/webviewer-audio-sample.git
-cd webviewer-audio-sample
+git clone https://github.com/akhil-haridas/webviewer-audio.git
+cd webviewer-audio
 npm install
 ```
 
