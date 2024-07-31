@@ -40,10 +40,3 @@ To test the build directory locally you can use [serve](https://www.npmjs.com/pa
 See @pdftron/webviewer [API documentation](https://www.pdftron.com/documentation/web/guides/ui/apis).<br/>
 See @pdftron/webviewer-audio [API documentation](https://webviewer-audio.web.app/doc/).
 
-## Contributing
-
-See [contributing](./CONTRIBUTING.md).
-
-## License
-
-See [license](./LICENSE).
